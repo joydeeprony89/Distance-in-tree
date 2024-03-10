@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // https://codeforces.com/contest/161/problem/D
         static void Main(string[] args)
         {
             var sol = new Solution();
